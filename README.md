@@ -22,9 +22,9 @@
 
 [English document](https://github.com/lin-xin/manage-system/blob/master/README_EN.md)
 
-## 项目截图
+## 项目截图~
 
-### 登录
+### 登录    
 
 ![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms3.png)
 
@@ -82,6 +82,12 @@ npm run dev
 // 执行构建命令，生成的dist文件夹放在服务器下即可访问
 npm run build
 ```
+// 测试包：
+npm run build:test
+
+// 生产包：
+
+npm run build:prod
 
 ## 组件使用说明与演示
 
